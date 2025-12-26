@@ -1,0 +1,12 @@
+{
+  "raw_file_source": "C:\\Users\\user\\Downloads\\serum",
+  "bp_process_dest": "C:\\Users\\user\\Downloads\\serum\\Processed",
+  "serum_process_dest": "C:\\Users\\user\\Downloads\\serum\\Processed",
+  "bp_copy_source": "C:\\Users\\user\\Downloads\\serum\\Processed",
+  "serum_copy_source": "C:\\Users\\user\\Downloads\\serum\\Processed",
+  "bp_copy_dest": "C:\\Users\\user\\Downloads\\serum\\copy",
+  "serum_copy_dest": "C:\\Users\\user\\Downloads\\serum\\copy",
+  "interval_minutes": 1,
+  "record_process": "C:\\Users\\user\\Downloads\\serum\\RecordsSim.xlsx",
+  "log_folder": "C:\\Users\\user\\Downloads\\serum\\Script"
+}
